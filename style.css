@@ -220,8 +220,6 @@ a.lista{
 article > ul{
     display: inline-table;
     padding-right: 15%;
-    padding-top: 10px;
-    padding-bottom: 10px;
     padding-left: 20px;
     width: 200px;
     text-align: justify;
