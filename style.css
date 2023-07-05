@@ -187,12 +187,12 @@ article#lista > p{
     padding: 5px;
 }
 
-p#paddi{
+article#lista > p#paddi{
     padding-bottom: 20px;
 }
 
 
-p#paddin{
+article#lista > p#paddin{
     padding-top: 20px;
 }
 
