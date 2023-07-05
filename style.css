@@ -186,6 +186,16 @@ article#lista > p{
     text-align: justify;
     padding: 5px;
 }
+
+p#paddi{
+    padding-bottom: 20px;
+}
+
+
+p#paddin{
+    padding-top: 20px;
+}
+
 p > a#mula{
     text-decoration: none;
     color: rgb(39, 122, 39);
